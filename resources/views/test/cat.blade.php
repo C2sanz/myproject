@@ -1,0 +1,1 @@
+<h1><img src="{{$cat}}"height="300"> </h1>
